@@ -8,7 +8,7 @@ Node-rules, a forward chaining Rules Engine packaged for Meteor.
 ## Installation
 `mrt add node-rules`
 
-# Credits
+## Credits
 A big thanks to [mithunsatheesh](https://github.com/mithunsatheesh) for the [node-rules](https://github.com/mithunsatheesh/node-rules) npm package.
 
 
