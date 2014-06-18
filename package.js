@@ -31,7 +31,7 @@ Package.on_use (function (api) {
 });
 
 Package.on_test (function (api) {
-  api.use ('meteor-node-rules');
+  api.use ('node-rules');
   api.use ('tinytest');
 
   api.add_files ('meteor-node-rules_tests.js');
