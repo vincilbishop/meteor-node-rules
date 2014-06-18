@@ -4,5 +4,5 @@
   "homepage": "https://github.com/premosystems/meteor-node-rules",
   "author": "Vincil Bishop <vincil.bishop@vbishop.com> (https://github.com/premosystems)",
   "version": "1.0.0",
-  "git": "git@github.com:premosystems/meteor-node-rules.git"
+  "git": "https://github.com/premosystems/meteor-node-rules"
 }
