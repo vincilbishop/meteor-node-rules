@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "node-rules": {
+      "version": "2.2.3",
+      "dependencies": {
+        "underscore": {
+          "version": "1.6.0"
+        }
+      }
+    }
+  }
+}
