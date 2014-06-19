@@ -19,7 +19,7 @@ Package.on_use (function (api) {
    * Add files that should be used with this
    * package.
    */
-  api.add_files ('meteor-node-rules.js', ['client', 'server']);
+  api.add_files ('meteor-node-rules.js', 'server');
 
   /*
    * Export global symbols.

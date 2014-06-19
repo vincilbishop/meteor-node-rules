@@ -3,6 +3,6 @@
   "description": "Node-rules is a forward chaining Rules Engine, packaged for meteor.",
   "homepage": "https://github.com/premosystems/meteor-node-rules",
   "author": "Vincil Bishop <vincil.bishop@vbishop.com> (https://github.com/premosystems)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "git": "https://github.com/premosystems/meteor-node-rules"
 }
